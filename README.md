@@ -1,8 +1,7 @@
 ### Hi there 👋 I am João Pedro Licks Corso
 
 - 📚 Studyng Computer engineering at UFRGS
-- 🔭 At the moment working on front-end
-- 🌱 I’m currently learning React.js
+- 🔭 At the moment learing JAVA
 
 <div align="center">
   <a href="https://github.com/jpcorso">
