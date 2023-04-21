@@ -1,4 +1,4 @@
-### Hi there 👋 I am João Pedro Licks Corso
+### Welcome to my GitHub Profile ;)
 
 - 📚 Studyng Computer engineering at UFRGS
 - 🔭 At the moment learing JAVA
