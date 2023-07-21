@@ -1,7 +1,6 @@
 ### Welcome to my GitHub Profile ;)
 
 - 📚 Studyng Computer engineering at UFRGS
-- 🔭 At the moment learing JAVA
 
 <div align="center">
   <a href="https://github.com/jpcorso">
