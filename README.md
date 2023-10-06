@@ -1,6 +1,7 @@
 ### Welcome to my GitHub Profile ;)
 
 - 📚 Studyng Computer engineering at UFRGS
+- 💻 Currently working with AI aplications at Construflow
 
 <div align="center">
   <a href="https://github.com/jpcorso">
