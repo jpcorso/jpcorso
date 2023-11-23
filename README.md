@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://github.com/jpcorso">
-  <img height="180em" src="https://github-readme-stats-ruby-one.vercel.app/api?username=jpcorso&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-ruby-one.vercel.app/api?username=jpcorso&show_icons=true&theme=blue-green"/>
   <img height="180em" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=jpcorso&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
   
